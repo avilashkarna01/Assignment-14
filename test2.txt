@@ -1,0 +1,8 @@
+Windows NT is a Microsoft Windows personal 
+computer operating system designed for users 
+and businesses needing advanced capability. 
+NT's technology is the base for the Microsoft 
+successor operating system, Windows 2000. Windows NT
+(which may originally have stood for "New Technology,"
+although Microsoft doesn't say) is actually two products: 
+Microsoft NT Workstation and Microsoft NT Server. 

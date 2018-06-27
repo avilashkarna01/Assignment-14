@@ -1,0 +1,14 @@
+How to Analog Signal transmitted from 
+source to destination via 
+communication channel.
+Explain with block diagram ? 			
+What is Amplitude Modulation. 
+Explain the frequency 
+spectrum of a Sine Wave
+X(c)=co?st with a high carrier 
+modulated wave ? Explain
+why we need of modulation ?									
+Show that 2/3 of the total 
+power are required to 
+transmit
+the carrier ?	
